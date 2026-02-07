@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lydia-netizen7.github.io/smm/sitemap.xml
